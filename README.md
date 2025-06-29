@@ -1,1 +1,1 @@
-# Jedit-
+# Jedit-Text Editor 
